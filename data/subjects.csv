@@ -1,0 +1,26 @@
+Semester_ID,Subject_Code,Subject_Name,Teacher_ID,Course_Credits,Semester,Student_Year_Taught,Programme,Department,Class_Size
+S001,DA127,Machine Learning Basics,T002,3,II,1st Year,Data Science,M.Sc.,60
+S002,DA303,Natural Language Processing,T005,3,II,1st Year,Data Science,M.Sc.,60
+S003,DA765,Data Mining,T001,3,II,1st Year,Data Science,M.Sc.,60
+S004,DA384,Machine Learning Basics,T001,2,IV,2nd Year,Data Science,M.Sc.,51
+S005,DA877,Deep Learning,T002,2,IV,2nd Year,Data Science,M.Sc.,51
+S006,DA814,Data Mining,T005,2,IV,2nd Year,Data Science,M.Sc.,51
+S007,DA204,Python Programming,T001,1,VI,3rd Year,Data Science,M.Sc.,50
+S008,DA489,Machine Learning Basics,T005,3,VI,3rd Year,Data Science,M.Sc.,50
+S009,DA467,Big Data Technologies,T002,2,VI,3rd Year,Data Science,M.Sc.,50
+S010,DA570,AI Ethics,T001,3,VIII,4th Year,Data Science,M.Sc.,54
+S011,DA227,Introduction to Data Science,T002,2,VIII,4th Year,Data Science,M.Sc.,54
+S012,DA180,Cloud Computing for Data Science,T005,3,VIII,4th Year,Data Science,M.Sc.,54
+S013,DA171,Data Mining,T001,2,X,5th Year,Data Science,M.Sc.,53
+S014,DA777,Machine Learning Basics,T005,1,X,5th Year,Data Science,M.Sc.,53
+S015,DA891,Cloud Computing for Data Science,T002,2,X,5th Year,Data Science,M.Sc.,53
+S016,AI975,Neural Networks,T003,3,II,1st Year,AI & ML,M.Sc.,53
+S017,AI203,ML Project,T003,2,IV,2nd Year,AI & ML,M.Sc.,52
+S018,AI564,AI Algorithms,T003,3,VI,3rd Year,AI & ML,M.Sc.,51
+S019,AI473,ML Project,T003,2,VIII,4th Year,AI & ML,M.Sc.,60
+S020,AI463,Machine Learning Models,T003,2,X,5th Year,AI & ML,M.Sc.,58
+S021,SO373,Cybersecurity Basics,T004,3,II,1st Year,Software Systems,M.Sc.,51
+S022,SO763,Cybersecurity Basics,T004,1,IV,2nd Year,Software Systems,M.Sc.,59
+S023,SO750,DevOps Practices,T004,2,VI,3rd Year,Software Systems,M.Sc.,56
+S024,SO846,Software Architecture,T004,2,VIII,4th Year,Software Systems,M.Sc.,50
+S025,SO573,Operating Systems,T004,2,X,5th Year,Software Systems,M.Sc.,50

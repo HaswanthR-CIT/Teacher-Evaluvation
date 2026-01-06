@@ -1,0 +1,76 @@
+Student_ID,Student_Year,Programme,Department,Gender
+STU001,1st Year,Data Science,M.Sc.,Male
+STU002,1st Year,Data Science,M.Sc.,Male
+STU003,1st Year,Data Science,M.Sc.,Female
+STU004,1st Year,Data Science,M.Sc.,Male
+STU005,1st Year,Data Science,M.Sc.,Male
+STU006,2nd Year,Data Science,M.Sc.,Male
+STU007,2nd Year,Data Science,M.Sc.,Male
+STU008,2nd Year,Data Science,M.Sc.,Male
+STU009,2nd Year,Data Science,M.Sc.,Female
+STU010,2nd Year,Data Science,M.Sc.,Male
+STU011,3rd Year,Data Science,M.Sc.,Male
+STU012,3rd Year,Data Science,M.Sc.,Male
+STU013,3rd Year,Data Science,M.Sc.,Male
+STU014,3rd Year,Data Science,M.Sc.,Male
+STU015,3rd Year,Data Science,M.Sc.,Male
+STU016,4th Year,Data Science,M.Sc.,Male
+STU017,4th Year,Data Science,M.Sc.,Female
+STU018,4th Year,Data Science,M.Sc.,Male
+STU019,4th Year,Data Science,M.Sc.,Female
+STU020,4th Year,Data Science,M.Sc.,Female
+STU021,5th Year,Data Science,M.Sc.,Male
+STU022,5th Year,Data Science,M.Sc.,Male
+STU023,5th Year,Data Science,M.Sc.,Female
+STU024,5th Year,Data Science,M.Sc.,Female
+STU025,5th Year,Data Science,M.Sc.,Female
+STU026,1st Year,AI & ML,M.Sc.,Male
+STU027,1st Year,AI & ML,M.Sc.,Male
+STU028,1st Year,AI & ML,M.Sc.,Female
+STU029,1st Year,AI & ML,M.Sc.,Male
+STU030,1st Year,AI & ML,M.Sc.,Male
+STU031,2nd Year,AI & ML,M.Sc.,Female
+STU032,2nd Year,AI & ML,M.Sc.,Male
+STU033,2nd Year,AI & ML,M.Sc.,Female
+STU034,2nd Year,AI & ML,M.Sc.,Female
+STU035,2nd Year,AI & ML,M.Sc.,Female
+STU036,3rd Year,AI & ML,M.Sc.,Male
+STU037,3rd Year,AI & ML,M.Sc.,Female
+STU038,3rd Year,AI & ML,M.Sc.,Male
+STU039,3rd Year,AI & ML,M.Sc.,Female
+STU040,3rd Year,AI & ML,M.Sc.,Male
+STU041,4th Year,AI & ML,M.Sc.,Female
+STU042,4th Year,AI & ML,M.Sc.,Female
+STU043,4th Year,AI & ML,M.Sc.,Male
+STU044,4th Year,AI & ML,M.Sc.,Male
+STU045,4th Year,AI & ML,M.Sc.,Male
+STU046,5th Year,AI & ML,M.Sc.,Male
+STU047,5th Year,AI & ML,M.Sc.,Female
+STU048,5th Year,AI & ML,M.Sc.,Male
+STU049,5th Year,AI & ML,M.Sc.,Male
+STU050,5th Year,AI & ML,M.Sc.,Male
+STU051,1st Year,Software Systems,M.Sc.,Female
+STU052,1st Year,Software Systems,M.Sc.,Female
+STU053,1st Year,Software Systems,M.Sc.,Female
+STU054,1st Year,Software Systems,M.Sc.,Female
+STU055,1st Year,Software Systems,M.Sc.,Male
+STU056,2nd Year,Software Systems,M.Sc.,Female
+STU057,2nd Year,Software Systems,M.Sc.,Female
+STU058,2nd Year,Software Systems,M.Sc.,Male
+STU059,2nd Year,Software Systems,M.Sc.,Female
+STU060,2nd Year,Software Systems,M.Sc.,Male
+STU061,3rd Year,Software Systems,M.Sc.,Male
+STU062,3rd Year,Software Systems,M.Sc.,Male
+STU063,3rd Year,Software Systems,M.Sc.,Male
+STU064,3rd Year,Software Systems,M.Sc.,Female
+STU065,3rd Year,Software Systems,M.Sc.,Female
+STU066,4th Year,Software Systems,M.Sc.,Female
+STU067,4th Year,Software Systems,M.Sc.,Male
+STU068,4th Year,Software Systems,M.Sc.,Female
+STU069,4th Year,Software Systems,M.Sc.,Male
+STU070,4th Year,Software Systems,M.Sc.,Male
+STU071,5th Year,Software Systems,M.Sc.,Male
+STU072,5th Year,Software Systems,M.Sc.,Female
+STU073,5th Year,Software Systems,M.Sc.,Female
+STU074,5th Year,Software Systems,M.Sc.,Female
+STU075,5th Year,Software Systems,M.Sc.,Male
